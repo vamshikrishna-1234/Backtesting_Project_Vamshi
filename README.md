@@ -4,5 +4,7 @@ A Python backtesting project using Backtrader library that implements and analyz
 
 Detailed:
 1)I Developed and backtested an automated trading strategy using Parabolic SAR (Stop and Reverse) and Simple Moving Average crossovers with the Backtrader Python framework on Amazon (AMZN) historical data.
+
 2)Leveraged the Backtrader Python framework to rigorously backtest the algorithm on (AMZN) historical OHLC (Open, High, Low, Close) data from Yahoo Finance.
+
 3)2)Achieved a net profit of $157,859, compound annual growth rate (CAGR) of 17.1% over 5.75 years, with a Sharpe Ratio of 0.67 and a maximum drawdown of 29.6%.
