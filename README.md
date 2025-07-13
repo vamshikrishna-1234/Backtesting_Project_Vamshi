@@ -7,7 +7,7 @@ Detailed:
 
 2)Leveraged the Backtrader Python framework to rigorously backtest the algorithm on (AMZN) historical OHLC (Open, High, Low, Close) data from Yahoo Finance.
 
-3)2)Achieved a net profit of $157,859, compound annual growth rate (CAGR) of 17.1% over 5.75 years, with a Sharpe Ratio of 0.67 and a maximum drawdown of 29.6%.
+3)Achieved a net profit of $157,859, compound annual growth rate (CAGR) of 17.1% over 5.75 years, with a Sharpe Ratio of 0.67 and a maximum drawdown of 29.6%.
 
 
 How to read the image file:
